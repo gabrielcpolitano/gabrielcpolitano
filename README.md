@@ -27,7 +27,7 @@ Sou um desenvolvedor dedicado a transformar ideias em realidade através da tecn
 
 ### 🔥 Projetos em Destaque
 
-- **[Construindo Futuro](linkProjeto1)**: Página Web. `HTML` `CSS` `JavaScript`
+- **[Projeto_1](https://github.com/gabrielcpolitano/Projeto_1)**: Página Estática. `HTML` `CSS`
 
 ### 📬 Contato
 
