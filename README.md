@@ -3,7 +3,7 @@
 <p align="center">
   <b>Desenvolvedor Full Stack | Entusiasta de Data Science</b><br>
   <a href="https://www.linkedin.com/in/gabriel-correia-politano-a30335302/"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat-square&logo=LinkedIn" alt="LinkedIn"/></a>
-  <a href="https://wa.me/17996490509"><img src="https://img.shields.io/badge/-WhatsApp-gray?style=flat-square&logo=WhatsApp" alt="WhatsApp"/></a>
+  <a href="https://wa.me/17996490503"><img src="https://img.shields.io/badge/-WhatsApp-gray?style=flat-square&logo=WhatsApp" alt="WhatsApp"/></a>
 </p>
 
 ---
