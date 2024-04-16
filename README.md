@@ -27,7 +27,9 @@ Sou um desenvolvedor dedicado a transformar ideias em realidade através da tecn
 
 ### 🔥 Trabalhos em Destaque
 
-- **[Projeto_1](https://github.com/gabrielcpolitano/Projeto_1)**: Página Estática. `HTML` `CSS`
+- **[1_Página_Estática](https://github.com/gabrielcpolitano/Pagina_Estatica)**: `HTML` `CSS`
+- **[2_Calculadora](https://github.com/gabrielcpolitano/Calculadora)**: `HTML` `CSS` `JavaScript`
+  
 
 ### 📬 Contato
 
