@@ -27,7 +27,8 @@ Sou um desenvolvedor dedicado a transformar ideias em realidade através da tecn
 
 ### 🔥 Trabalhos em Destaque
 
-- **[Lista de Tarefas](https://github.com/gabrielcpolitano/Lista_Tarefas/tree/main)**: `HTML` `CSS` `JavaScript`
+- **[Relógio Web](https://github.com/gabrielcpolitano/Relogio)**: `HTML` `CSS` `JavaScript`
+- **[Lista de Tarefas](https://github.com/gabrielcpolitano/Lista_Tarefas)**: `HTML` `CSS` `JavaScript`
 - **[Calculadora](https://github.com/gabrielcpolitano/Calculadora)**: `HTML` `CSS` `JavaScript`
 - **[Página Estática](https://github.com/gabrielcpolitano/Pagina_Estatica)**: `HTML` `CSS`
   
