@@ -32,7 +32,9 @@ Sou um desenvolvedor dedicado a transformar ideias em realidade através da tecn
 - **[Calculadora](https://github.com/gabrielcpolitano/Calculadora)**: `HTML` `CSS` `JavaScript`
 - **[Página Estática](https://github.com/gabrielcpolitano/Pagina_Estatica)**: `HTML` `CSS`
 
-### Para colaborações ou perguntas, sinta-se à vontade para me contatar:
+### 📬 Contato
+
+Para colaborações ou perguntas, sinta-se à vontade para me contatar:
 
 - **📧 Email:** [gabriel.cpolitano@gmail.com](mailto:gabriel.cpolitano@gmail.com)
 - **💼 LinkedIn:** [Visite meu perfil](https://www.linkedin.com/in/gabriel-correia-politano-a30335302/)
