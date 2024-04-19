@@ -2,7 +2,12 @@
 
 <p align="center">
   <b>Desenvolvedor Full Stack | Entusiasta de Data Science</b><br>
-  <a href="https://www.linkedin.com/in/gabriel-correia-politano-a30335302/"><img src="https://img.shields.io/badge/-LinkedIn-gray?style=flat-square&logo=LinkedIn" alt="LinkedIn"/></a>
+   <a href="mailto:gabriel.cpolitano@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/><br>
+  </a>
+  <a href="https://discordapp.com/users/1230514914142060575">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
 </p>
 
 ---
@@ -40,18 +45,6 @@
   </a>
   <a href="https://github.com/gabrielcpolitano/Pagina_Estatica">
     <img src="https://img.shields.io/badge/-Página_Estática-000?style=flat-square&logo=github&logoColor=white" alt="Página Estática"/>
-  </a>
-</p>
-
-
-<h2 align="center">📬 Contato</h2>
-
-<p align="center">
-  <a href="mailto:gabriel.cpolitano@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/><br>
-  </a>
-  <a href="https://www.linkedin.com/in/gabriel-correia-politano-a30335302/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
