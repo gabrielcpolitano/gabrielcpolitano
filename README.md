@@ -35,16 +35,16 @@
 
 <p align="center">
   <a href="https://github.com/gabrielcpolitano/Relogio">
-    <img src="https://img.shields.io/badge/-Relógio_Digital-000?style=flat-square&logo=github&logoColor=white" alt="Relógio Digital"/><br>
+    <img src="https://img.shields.io/badge/-Relógio_Digital-000?style=flat-square&logo=github&logoColor=white" alt="Relógio Digital" width="150"/><br>
   </a>
   <a href="https://github.com/gabrielcpolitano/Lista_Tarefas">
-    <img src="https://img.shields.io/badge/-Lista_de_Tarefas-000?style=flat-square&logo=github&logoColor=white" alt="Lista de Tarefas"/><br>
+    <img src="https://img.shields.io/badge/-Lista_de_Tarefas-000?style=flat-square&logo=github&logoColor=white" alt="Lista de Tarefas" width="150"/><br>
   </a>
   <a href="https://github.com/gabrielcpolitano/Calculadora">
-    <img src="https://img.shields.io/badge/-Calculadora-000?style=flat-square&logo=github&logoColor=white" alt="Calculadora"/><br>
+    <img src="https://img.shields.io/badge/-Calculadora-000?style=flat-square&logo=github&logoColor=white" alt="Calculadora" width="150"/><br>
   </a>
   <a href="https://github.com/gabrielcpolitano/Pagina_Estatica">
-    <img src="https://img.shields.io/badge/-Página_Estática-000?style=flat-square&logo=github&logoColor=white" alt="Página Estática"/>
+    <img src="https://img.shields.io/badge/-Página_Estática-000?style=flat-square&logo=github&logoColor=white" alt="Página Estática" width="150"/><br>
   </a>
 </p>
 
