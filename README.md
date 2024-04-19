@@ -15,7 +15,7 @@
 <h2 align="center">🚀 Sobre Mim</h2>
 <p align="center">Sou um desenvolvedor dedicado a transformar ideias em realidade através da tecnologia. Com o conhecimento e as ferramentas disponíveis, podemos criar projetos cada vez mais incríveis. Juntos, somos mais fortes!</p>
 
-<h2 align="center">💼 Tecnologias</h2>
+<h2 align="center">📱 Tecnologias</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
