@@ -34,6 +34,9 @@
 <h2 align="center">🔥 Trabalhos em Destaque</h2>
 
 <p align="center">
+   <a href="https://github.com/gabrielcpolitano/Venda_Carros">
+    <img src="https://img.shields.io/badge/-Venda_Carros-000?style=flat-square&logo=github&logoColor=white" alt="Venda de Carros" width="150"/><br>
+  </a>
   <a href="https://github.com/gabrielcpolitano/Relogio">
     <img src="https://img.shields.io/badge/-Relógio_Digital-000?style=flat-square&logo=github&logoColor=white" alt="Relógio Digital" width="150"/><br>
   </a>
