@@ -1,8 +1,8 @@
 <h1 align="center">💻 Gabriel Politano 💻</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack | Entusiasta de Data Science</b><br>
-   <a href="mailto:gabriel.cpolitano@gmail.com">
+  <b>Full Stack Developer | Data Science Enthusiast</b><br>
+  <a href="mailto:gabriel.cpolitano@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/><br>
   </a>
   <a href="https://discordapp.com/users/1230514914142060575">
@@ -12,10 +12,10 @@
 
 ---
 
-<h2 align="center">🚀 Sobre Mim</h2>
-<p align="center">Sou um desenvolvedor dedicado a transformar ideias em realidade através da tecnologia. Com o conhecimento e as ferramentas disponíveis, podemos criar projetos cada vez mais incríveis. Juntos, somos mais fortes!</p>
+<h2 align="center">🚀 About Me</h2>
+<p align="center">I'm a developer dedicated to turning ideas into reality through technology. With knowledge and available tools, we can create increasingly incredible projects. Together, we are stronger!</p>
 
-<h2 align="center">📱 Tecnologias</h2>
+<h2 align="center">📱 Technologies</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
@@ -31,28 +31,28 @@
 </p>
 
 
-<h2 align="center">🔥 Trabalhos em Destaque</h2>
+<h2 align="center">🔥 Featured Projects</h2>
 
 <p align="center">
    <a href="https://github.com/gabrielcpolitano/Venda_Carros">
-    <img src="https://img.shields.io/badge/-Venda_Carros-000?style=flat-square&logo=github&logoColor=white" alt="Venda de Carros" width="150"/><br>
+    <img src="https://img.shields.io/badge/-Venda_Carros-000?style=flat-square&logo=github&logoColor=white" alt="Car Sales" width="150"/><br>
   </a>
   <a href="https://github.com/gabrielcpolitano/Relogio">
-    <img src="https://img.shields.io/badge/-Relógio_Digital-000?style=flat-square&logo=github&logoColor=white" alt="Relógio Digital" width="150"/><br>
+    <img src="https://img.shields.io/badge/-Digital_Clock-000?style=flat-square&logo=github&logoColor=white" alt="Digital Clock" width="150"/><br>
   </a>
   <a href="https://github.com/gabrielcpolitano/Lista_Tarefas">
-    <img src="https://img.shields.io/badge/-Lista_de_Tarefas-000?style=flat-square&logo=github&logoColor=white" alt="Lista de Tarefas" width="150"/><br>
+    <img src="https://img.shields.io/badge/-Task_List-000?style=flat-square&logo=github&logoColor=white" alt="Task List" width="150"/><br>
   </a>
   <a href="https://github.com/gabrielcpolitano/Calculadora">
-    <img src="https://img.shields.io/badge/-Calculadora-000?style=flat-square&logo=github&logoColor=white" alt="Calculadora" width="150"/><br>
+    <img src="https://img.shields.io/badge/-Calculator-000?style=flat-square&logo=github&logoColor=white" alt="Calculator" width="150"/><br>
   </a>
   <a href="https://github.com/gabrielcpolitano/Pagina_Estatica">
-    <img src="https://img.shields.io/badge/-Página_Estática-000?style=flat-square&logo=github&logoColor=white" alt="Página Estática" width="150"/><br>
+    <img src="https://img.shields.io/badge/-Static_Page-000?style=flat-square&logo=github&logoColor=white" alt="Static Page" width="150"/><br>
   </a>
 </p>
 
 
-<h2 align="center">📈 Estatísticas do GitHub</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
   <img
     style="border-radius: 10px;"
