@@ -35,19 +35,19 @@
 
 <p align="center">
    <a href="https://github.com/gabrielcpolitano/Venda_Carros">
-    <img src="https://img.shields.io/badge/-Venda_Carros-000?style=flat-square&logo=github&logoColor=white" alt="Car Sales" width="150"/><br>
+    <img src="https://img.shields.io/badge/-Venda_Carros-000?style=flat-square&logo=github&logoColor=blue" alt="Car Sales" width="150"/><br>
   </a>
   <a href="https://github.com/gabrielcpolitano/Relogio">
-    <img src="https://img.shields.io/badge/-Digital_Clock-000?style=flat-square&logo=github&logoColor=white" alt="Digital Clock" width="150"/><br>
+    <img src="https://img.shields.io/badge/-Digital_Clock-000?style=flat-square&logo=github&logoColor=blue" alt="Digital Clock" width="150"/><br>
   </a>
   <a href="https://github.com/gabrielcpolitano/Lista_Tarefas">
-    <img src="https://img.shields.io/badge/-Task_List-000?style=flat-square&logo=github&logoColor=white" alt="Task List" width="150"/><br>
+    <img src="https://img.shields.io/badge/-Task_List-000?style=flat-square&logo=github&logoColor=blue" alt="Task List" width="150"/><br>
   </a>
   <a href="https://github.com/gabrielcpolitano/Calculadora">
-    <img src="https://img.shields.io/badge/-Calculator-000?style=flat-square&logo=github&logoColor=white" alt="Calculator" width="150"/><br>
+    <img src="https://img.shields.io/badge/-Calculator-000?style=flat-square&logo=github&logoColor=blue" alt="Calculator" width="150"/><br>
   </a>
   <a href="https://github.com/gabrielcpolitano/Pagina_Estatica">
-    <img src="https://img.shields.io/badge/-Static_Page-000?style=flat-square&logo=github&logoColor=white" alt="Static Page" width="150"/><br>
+    <img src="https://img.shields.io/badge/-Static_Page-000?style=flat-square&logo=github&logoColor=blue" alt="Static Page" width="150"/><br>
   </a>
 </p>
 
@@ -56,7 +56,7 @@
 <div align="center">
   <img
     style="border-radius: 10px;"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcpolitano&theme=dark&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcpolitano&theme=catppuccin-latte&hide_border=false"
     alt="Gabriel's GitHub Streak"
   />
 </div>
@@ -64,7 +64,7 @@
 <div align="center">
   <img
     style="border-radius: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcpolitano&layout=compact&theme=dark&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcpolitano&layout=compact&bg_color=30,e9e9e9,9a9a9a&title_color=fff&text_color=fffe"
     alt="Gabriel's Most Used Languages"
   />
 </div>
