@@ -1,7 +1,7 @@
 <h1 align="center">💻 Gabriel Politano 💻</h1>
 
 <p align="center">
-  <b>Full Stack Developer | Data Science Enthusiast</b><br>
+  <b>Full Stack Developer</b><br>
   <a href="mailto:gabriel.cpolitano@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/><br>
   </a>
