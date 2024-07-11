@@ -56,7 +56,7 @@
 <div align="center">
   <img
     style="border-radius: 10px;"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcpolitano&theme=catppuccin-latte&hide_border=false"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcpolitano&theme=catppuccin-mocha&hide_border=false"
     alt="Gabriel's GitHub Streak"
   />
 </div>
@@ -64,7 +64,8 @@
 <div align="center">
   <img
     style="border-radius: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcpolitano&layout=compact&bg_color=30,e9e9e9,9a9a9a&title_color=fff&text_color=fffe"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcpolitano&layout=compact&bg_color=30,2e2e2e,4b4b4b&title_color=fff&text_color=fff"
     alt="Gabriel's Most Used Languages"
   />
 </div>
+
