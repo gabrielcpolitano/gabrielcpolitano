@@ -30,28 +30,6 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-
-<h2 align="center">🔥 Featured Projects</h2>
-
-<p align="center">
-   <a href="https://github.com/gabrielcpolitano/Venda_Carros">
-    <img src="https://img.shields.io/badge/-Venda_Carros-000?style=flat-square&logo=github&logoColor=blue" alt="Car Sales" width="150"/><br>
-  </a>
-  <a href="https://github.com/gabrielcpolitano/Relogio">
-    <img src="https://img.shields.io/badge/-Digital_Clock-000?style=flat-square&logo=github&logoColor=blue" alt="Digital Clock" width="150"/><br>
-  </a>
-  <a href="https://github.com/gabrielcpolitano/Lista_Tarefas">
-    <img src="https://img.shields.io/badge/-Task_List-000?style=flat-square&logo=github&logoColor=blue" alt="Task List" width="150"/><br>
-  </a>
-  <a href="https://github.com/gabrielcpolitano/Calculadora">
-    <img src="https://img.shields.io/badge/-Calculator-000?style=flat-square&logo=github&logoColor=blue" alt="Calculator" width="150"/><br>
-  </a>
-  <a href="https://github.com/gabrielcpolitano/Pagina_Estatica">
-    <img src="https://img.shields.io/badge/-Static_Page-000?style=flat-square&logo=github&logoColor=blue" alt="Static Page" width="150"/><br>
-  </a>
-</p>
-
-
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
   <img
