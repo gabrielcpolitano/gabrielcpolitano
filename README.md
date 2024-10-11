@@ -13,7 +13,7 @@
 ---
 
 <h2 align="center">🚀 About Me</h2>
-<p align="center">I'm a developer dedicated to turning ideas into reality through technology. With knowledge and available tools, we can create increasingly incredible projects. Together, we are stronger!</p>
+<p align="center">Olá sou desenvolver, gosto muito de programar com JavaScript, usando o Node.js, estou atuamente aprendendo mais e mais sobre o backend é uma parte desafiadora, mas preciso disso para conseguir fazer minha integrações de backend com o front-end</p>
 
 <h2 align="center">📱 Technologies</h2>
 
