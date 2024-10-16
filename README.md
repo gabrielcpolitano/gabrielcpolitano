@@ -42,7 +42,7 @@
 <div align="center">
   <img
     style="border-radius: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcpolitano&layout=compact&bg_color=30,2e2e2e,4b4b4b&title_color=fff&text_color=fff"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcpolitano&hide_progress=false&bg_color=30,2e2e2e,4b4b4b&title_color=fff&text_color=fff"
     alt="Gabriel's Most Used Languages"
   />
 </div>
