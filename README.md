@@ -1,10 +1,11 @@
 <h1 align="center">💻 Gabriel Politano 💻</h1>
 
 <p align="center">
-  <b>Developer</b><br>
+  <strong>Software Developer</strong><br>
   <a href="mailto:gabriel.cpolitano@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/><br>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
+  <br>
   <a href="https://discordapp.com/users/1230514914142060575">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
@@ -12,10 +13,10 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
-<p align="center">Olá sou desenvolver, gosto muito de programar com JavaScript, usando o Node.js, estou atuamente aprendendo mais e mais sobre o backend é uma parte desafiadora, mas preciso disso para conseguir fazer minha integrações de backend com o front-end</p>
+<h2 align="center">🚀 Sobre Mim</h2>
+<p align="center">Olá, sou Gabriel Politano, um desenvolvedor apaixonado por tecnologia. Tenho experiência com JavaScript, utilizando Node.js como uma das principais ferramentas do meu stack. Atualmente, estou me aprofundando em desenvolvimento back-end, explorando desafios complexos e aprendendo a criar integrações robustas entre front-end e back-end. Adoro a jornada de transformar ideias em soluções funcionais e eficientes.</p>
 
-<h2 align="center">📱 Technologies</h2>
+<h2 align="center">📱 Tecnologias</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
@@ -39,4 +40,3 @@
     alt="Gabriel's Most Used Languages"
   />
 </div>
-
