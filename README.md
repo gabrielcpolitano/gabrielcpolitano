@@ -31,13 +31,6 @@
 </p>
 
 <h2 align="center">📈 GitHub Stats</h2>
-<div align="center">
-  <img
-    style="border-radius: 10px;"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcpolitano&theme=catppuccin-mocha&hide_border=false"
-    alt="Gabriel's GitHub Streak"
-  />
-</div>
 
 <div align="center">
   <img
