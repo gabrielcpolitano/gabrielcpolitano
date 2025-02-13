@@ -1,5 +1,5 @@
 <h1 align="center">💻 Gabriel Politano 💻</h1>
-
+ 
 <p align="center"> 
   <strong>Software Developer</strong><br>  
   <a href="mailto:gabriel.cpolitano@gmail.com">
