@@ -1,6 +1,6 @@
 <h1 align="center">💻 Gabriel Politano 💻</h1>
  
-<p align="center"> 
+<p align="center">  
   <strong>Software Developer</strong><br>    
   <a href="mailto:gabriel.cpolitano@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
