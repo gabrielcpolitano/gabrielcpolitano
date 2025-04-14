@@ -14,7 +14,11 @@
 ---
 
 <h2 align="center">🚀 Sobre Mim</h2>
-<p align="center">Olá, sou Gabriel Politano, um desenvolvedor apaixonado por tecnologia. Tenho experiência com JavaScript, utilizando Node.js como uma das principais ferramentas do meu stack. Atualmente, estou me aprofundando em desenvolvimento back-end, explorando desafios complexos e aprendendo a criar integrações robustas entre front-end e back-end. Adoro a jornada de transformar ideias em soluções funcionais e eficientes.</p>
+<p align="center">I'm a student and aspiring developer with a strong passion for technology and web development. I've recently completed hands-on courses in both Front-End and Back-End, where I learned the fundamentals of programming, building applications, working with APIs, version control using Git, and deploying projects in real-world environments.
+
+Although I'm still at the beginning of my journey, I dedicate myself every day to improving. I’m constantly coding personal projects, studying best practices, and trying to understand how real-world development teams operate.
+
+I’m now looking for an internship opportunity where I can keep learning through practical experience, contribute with what I already know, and grow alongside more experienced professionals. I’m well aware that I still have a lot to learn—but I make up for it with commitment, a strong desire to grow, and the ability to collaborate easily within a team.</p>
 
 <h2 align="center">📱 Tecnologias</h2>
 
