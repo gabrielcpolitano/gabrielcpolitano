@@ -13,7 +13,7 @@
 
 ---
 
-<h2 align="center">🚀 Sobre Mim</h2>
+<h2 align="center">🚀About Me</h2>
 <p>I'm a student and aspiring developer with a strong passion for technology and web development. I've recently completed hands-on courses in both Front-End and Back-End, where I learned the fundamentals of programming, building applications, working with APIs, version control using Git, and deploying projects in real-world environments.
 
 Although I'm still at the beginning of my journey, I dedicate myself every day to improving. I’m constantly coding personal projects, studying best practices, and trying to understand how real-world development teams operate.
